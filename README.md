@@ -46,6 +46,16 @@ Check out my repositories for examples of:
 - **Python**-based optimization tool for VRP problem
 - Simple games built in **Unity** and **Java**
 
+### Team Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**The Last Survivors**](https://github.com/polibuda-projects/the-last-survivors) | Wave-based survival game where players face continuous hordes of enemies, unlock weapons, and level up abilities. | Java, LibGDX |
+| [**Student Benchmark**](https://github.com/polibuda-projects/student-benchmark) | Cognitive testing platform with memory tests, leaderboards, and performance tracking. | React, TypeScript, Node.js, Spring Boot |
+| [**Room Designer**](https://github.com/TeamFWS/room-designer) | VR/MR app that allows room scanning, interactive furniture placement, and layout visualization. | Unity, Meta XR |
+| [**CubeMaze**](https://github.com/TeamFWS/cube-maze) | VR/MR puzzle game featuring maze navigation with ball physics, traps, and multiplayer leaderboard. | Unity, Meta XR |
+| [**Daedalus Escape**](https://github.com/TeamFWS/daedalus-escape) | Mythology-themed puzzle game with collectible lore, timed challenges, and level-specific mechanics. | Unity |
+
 ---
 
 ## 📊 Languages Overview
