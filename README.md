@@ -17,17 +17,23 @@ I’m always looking to learn more, collaborate on interesting projects, and gro
 ## 🛠 Tech Stack
 
 **Core Skills:**  
+
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54)
 ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)
 
-**Additional Skills:**  
+**Additional Skills:** 
+
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?logo=c-sharp&logoColor=white)
 ![Scala](https://img.shields.io/badge/Scala-DC322F.svg?logo=scala&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84.svg?logo=android&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?logo=springboot&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A.svg?logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000.svg?logo=express&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?logo=css3&logoColor=white)
 ![ARCore](https://img.shields.io/badge/ARCore-4285F4.svg?logo=google&logoColor=white)
 ![Vuforia](https://img.shields.io/badge/Vuforia-0A6EAA.svg?logo=unity&logoColor=white)
 ![Meta Quest](https://img.shields.io/badge/Meta%20Quest-1C1E20.svg?logo=oculus&logoColor=white)
